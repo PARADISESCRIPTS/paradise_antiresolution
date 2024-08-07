@@ -5,3 +5,7 @@
 ## Orignal Credits : [dwb_res](https://github.com/donwiktorb/dwb_res)
 
 ## Join Our [Discord](https://discord.gg/xhdtB2JvbT) For More Scripts/Info
+
+# Dependencies
+
+## [ox_lib](https://github.com/overextended/ox_lib)
